@@ -2,6 +2,8 @@
 
 export default function SignIn() {
     return (
-        <div>SignIn</div>
+        <>
+            <h1 className="font-semibold text-3xl text-center my-7">Sign Up</h1>
+        </>
     )
 }
